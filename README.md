@@ -84,7 +84,7 @@ Build a simple ecosystem simulation in Scratch with a game feel. A monkey lives 
 ## 📄 Documentation
 
 The full project report has the objective, flowcharts for every character, and the Scratch code:
-[Scratch Project Report](Scratch_Project_Report.pdf))
+[Scratch Project Report](Scratch_Project_Report.pdf)
 
 ---
 
