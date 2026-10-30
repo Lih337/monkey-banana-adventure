@@ -61,41 +61,30 @@ Build a simple ecosystem simulation in Scratch with a game feel. A monkey lives 
 
 **Start screen**
 
-![Start screen](screenshots/start.png)
+![Start screen](Start.png)
 
-**Gameplay**
+**Next levels**
 
-![Gameplay](screenshots/gameplay.png)
+![Next level 1](Nextlevel1.png)
 
-**Next level**
-
-![Next level](screenshots/next-level.png)
+![Next level 2](Nextlevel2.png)
 
 ### Code
 
 **Monkey movement and level switching**
 
-![Monkey code](screenshots/code-monkey.png)
+![Monkey code](Monkey%20code.png)
 
 **Banana**
 
-![Banana code](screenshots/code-banana.png)
-
----
-
-## ▶️ Play It
-
-1. Download `monkey-banana-adventure.sb3` from this repo.
-2. Go to [scratch.mit.edu](https://scratch.mit.edu) and click **Create**.
-3. Click **File → Load from your computer** and choose the file.
-4. Click the green flag.
+![Banana code](Banana%20code.png)
 
 ---
 
 ## 📄 Documentation
 
 The full project report has the objective, flowcharts for every character, and the Scratch code:
-[Scratch Project Report](docs/Scratch_Project_Report.pdf)
+[Scratch Project Report](Scratch_Project_Report.pdf))
 
 ---
 
